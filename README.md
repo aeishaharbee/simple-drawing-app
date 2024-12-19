@@ -16,13 +16,11 @@ A new Flutter project.
 
 1. Clone this project
 
-2. Open terminal and cd to `drawing_app`
+2. Plug in your android phone (optional)
 
-3. Plug in your android phone (optional)
+3. On terminal, run `flutter run`
 
-4. On terminal, run `flutter run`
-
-5. To see the app interfaces, go to the `screeenshots` folder
+4. To see the app interfaces, go to the `screeenshots` folder
 
 ## Source
 
